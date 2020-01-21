@@ -16,6 +16,7 @@
 		C481CACD23D68FAC0048AE40 /* LandmarksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C481CACC23D68FAC0048AE40 /* LandmarksTests.swift */; };
 		C481CAD823D68FAC0048AE40 /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C481CAD723D68FAC0048AE40 /* LandmarksUITests.swift */; };
 		C481CAE623D6C96E0048AE40 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C481CAE523D6C96E0048AE40 /* CircleImage.swift */; };
+		C481CAE823D6D49A0048AE40 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C481CAE723D6D49A0048AE40 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		C481CAD723D68FAC0048AE40 /* LandmarksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITests.swift; sourceTree = "<group>"; };
 		C481CAD923D68FAC0048AE40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C481CAE523D6C96E0048AE40 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		C481CAE723D6D49A0048AE40 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				C481CAB723D68FA10048AE40 /* SceneDelegate.swift */,
 				C481CAB923D68FA10048AE40 /* ContentView.swift */,
 				C481CAE523D6C96E0048AE40 /* CircleImage.swift */,
+				C481CAE723D6D49A0048AE40 /* MapView.swift */,
 				C481CABB23D68FAC0048AE40 /* Assets.xcassets */,
 				C481CAC023D68FAC0048AE40 /* LaunchScreen.storyboard */,
 				C481CAC323D68FAC0048AE40 /* Info.plist */,
@@ -272,6 +275,7 @@
 			files = (
 				C481CAB623D68FA10048AE40 /* AppDelegate.swift in Sources */,
 				C481CAE623D6C96E0048AE40 /* CircleImage.swift in Sources */,
+				C481CAE823D6D49A0048AE40 /* MapView.swift in Sources */,
 				C481CAB823D68FA10048AE40 /* SceneDelegate.swift in Sources */,
 				C481CABA23D68FA10048AE40 /* ContentView.swift in Sources */,
 			);
